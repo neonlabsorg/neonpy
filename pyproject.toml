@@ -9,5 +9,5 @@ requires = [
     "web3==5.22.0",
     "solana==0.10.0",
     "py-solc-x==1.1.0",
-    "git+https://github.com/neonlabsorg/python-logged-groups.git@2.1.4"
+    "setuptools @ git+https://github.com/neonlabsorg/python-logged-groups.git@2.1.4"
 ]
